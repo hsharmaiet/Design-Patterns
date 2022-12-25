@@ -1,2 +1,3 @@
 # Design-Patterns
 Design pattern is a way to learn why (and how) you can utilize the wisdom and lessons learned by other developers who’ve been down the same design problem road and survived the trip.The best way to use patterns is to load your brain with them and then recognize places in your designs and existing applications where you can apply them. Instead of code reuse, with patterns you get experience reuse.
+Design principle: take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don’t.All patterns provide a way to let some part of a system vary independently of all other parts.
